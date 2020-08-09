@@ -31,7 +31,7 @@ flutter:
       package: me.hetian.flutter_qr_reader
       pluginClass: FlutterQrReaderPlugin
     ios:
-        pluginClass: FlutterQrReaderPlugin
+      pluginClass: FlutterQrReaderPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
